@@ -1,3 +1,5 @@
 #/bin/bash
 defaults write com.apple.finder AppleShowAllFiles TRUE
 killall Finder
+
+# You could also now do: Shift-Cmd-. (dot) instead to toggle
